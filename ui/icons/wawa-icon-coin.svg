@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>wawa wallet coin</title>
+    <g id="wawa-wallet-coin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M5,1 H10 V2 H12 V3 H13 V5 H14 V10 H13 V12 H12 V13 H10 V14 H5 V13 H3 V12 H2 V10 H1 V5 H2 V3 H3 V2 H5 Z" id="path-1" fill="#000000"></path>
+        <path d="M5,2 H5 V3 H3 V5 H2 V10 H3 V12 H5 V13 H10 V12 H12 V10 H13 V5 H12 V3 H10 V2 H5 Z" id="path-2" fill="#FFD203"></path>
+        <g id="group-1" transform="translate(2, 2)">
+            <path d="M0,4 H1 V8 H2 V9 H3 V10 H6 V11 H3 V10 H1 V8 H0 Z" id="path-3" fill="#E8A302"></path>
+            <path d="M5,0 H8 V1 H10 V3 H11 V5 H10 V3 H9 V2 H8 V1 H5 Z" id="path-4" fill="#FFFFFF"></path>
+        </g>
+        <g id="group-2" transform="translate(3, 3)">
+            <path d="M2,0 H4 V1 H2 V2 H1 V7 H2 V8 H7 V7 H8 V4 H9 V7 H8 V8 H7 V9 H2 V8 H1 V7 H0 V2 H1 V1 H2 Z" id="path-5" fill="#D27101"></path>
+            <path d="M4,0 H7 V1 H8 V2 H9 V4 H8 V2 H7 V1 H4 Z" id="path-6" fill="#E8A302"></path>
+        </g>
+        <g id="group-3" transform="translate(5, 5)">
+            <rect x="3" y="3" width="1" height="1" id="rectangle-1" fill="#E8A302"></rect>
+            <path d="M1,0 H2 V1 H1 V3 H0 V1 H1 Z" id="path-7" fill="#E8A302"></path>
+            <path d="M2,0 H4 V1 H5 V3 H4 V1 H2 Z" id="path-8" fill="#FFFFFF" ></path>
+            <path d="M1,3 H2 V4 H4 V5 H1 Z" id="path-9" fill="#D27101"></path>
+        </g>
+    </g>
+</svg>

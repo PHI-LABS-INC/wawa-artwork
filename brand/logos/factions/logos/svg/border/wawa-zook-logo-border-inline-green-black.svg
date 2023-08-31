@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>wawa-zook-logo-border-inline-green-black</title>
+    <g id="wawa-zook-logo-border-inline-green-black" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo" transform="translate(1, 1)">
+            <rect id="rectangle-4" fill="#000000" x="0" y="0" width="13" height="13"></rect>
+            <rect id="rectangle-3" fill="#00AF4D" x="1" y="1" width="11" height="11"></rect>
+            <rect id="rectangle-2" fill="#000000" x="2" y="8" width="3" height="3"></rect>
+            <rect id="rectangle-2-inline" fill="#00AF4D" x="3" y="9" width="1" height="1"></rect>
+            <rect id="rectangle-1" fill="#000000" x="8" y="8" width="3" height="3"></rect>
+            <rect id="rectangle-1-inline" fill="#00AF4D" x="9" y="9" width="1" height="1"></rect>
+            <polygon id="path-1" fill="#000000" points="2 2 11 2 11 5 8 5 8 8 5 8 5 5 2 5"></polygon>
+            <polygon id="path-1-inline" fill="#00AF4D" points="3 3 10 3 10 4 7 4 7 7 6 7 6 4 3 4"></polygon>
+        </g>
+    </g>
+</svg>

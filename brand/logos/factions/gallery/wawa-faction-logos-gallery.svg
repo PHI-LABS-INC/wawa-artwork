@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="89px" height="89px" viewBox="0 0 89 89" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>wawa-faction-logos-gallery</title>
+    <g id="wawa-faction-logos-gallery" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M28,15 L28,28 L15,28 L15,15 L28,15 Z M26,17 L17,17 L17,23 L20,23 L20,26 L26,26 L26,17 Z M23,20 L23,23 L20,23 L20,20 L23,20 Z" id="flavo" fill="#FFCD03"></path>
+        <path d="M14,15 L14,28 L1,28 L1,15 L14,15 Z M6,23 L3,23 L3,26 L6,26 L6,23 Z M12,23 L9,23 L9,26 L12,26 L12,23 Z M12,17 L3,17 L3,20 L6,20 L6,23 L9,23 L9,20 L12,20 L12,17 Z" id="zook" fill="#00AF4D"></path>
+        <path d="M28,1 L28,14 L15,14 L15,1 L28,1 Z M20,9 L17,9 L17,12 L20,12 L20,9 Z M23,3 L17,3 L17,6 L20,6 L20,9 L26,9 L26,6 L23,6 L23,3 Z" id="mecha" fill="#F83737"></path>
+        <path d="M14,1 L14,14 L1,14 L1,1 L14,1 Z M6,9 L3,9 L3,12 L6,12 L6,9 Z M12,3 L6,3 L6,9 L12,9 L12,3 Z" id="prima" fill="#418AF1"></path>
+        <g id="logo" transform="translate(75, 15)">
+            <rect id="rectangle-1" fill="#000000" x="0" y="0" width="13" height="13"></rect>
+            <polygon id="path-1" fill="#FFCD03" points="2 2 11 2 11 11 5 11 5 8 8 8 8 5 5 5 5 8 2 8"></polygon>
+        </g>
+        <g id="logo" transform="translate(61, 15)">
+            <rect id="rectangle-3" fill="#000000" x="0" y="0" width="13" height="13"></rect>
+            <rect id="rectangle-2" fill="#00AF4D" x="2" y="8" width="3" height="3"></rect>
+            <rect id="rectangle-1" fill="#00AF4D" x="8" y="8" width="3" height="3"></rect>
+            <polygon id="path-1" fill="#00AF4D" points="2 2 11 2 11 5 8 5 8 8 5 8 5 5 2 5"></polygon>
+        </g>
+        <g id="logo" transform="translate(75, 1)">
+            <rect id="rectangle-2" fill="#000000" x="0" y="0" width="13" height="13"></rect>
+            <rect id="rectangle-1" fill="#F83737" x="2" y="8" width="3" height="3"></rect>
+            <polygon id="path-1" fill="#F83737" points="2 2 8 2 8 5 11 5 11 8 5 8 5 5 2 5"></polygon>
+        </g>
+        <g id="logo" transform="translate(61, 1)">
+            <rect id="rectangle-3" fill="#000000" x="0" y="0" width="13" height="13"></rect>
+            <rect id="rectangle-2" fill="#418AF1" x="2" y="8" width="3" height="3"></rect>
+            <rect id="rectangle-1" fill="#418AF1" x="5" y="2" width="6" height="6"></rect>
+        </g>
+        <g id="flavo" transform="translate(45, 15)">
+            <rect id="rectangle-1" fill="#FFCD03" x="0" y="0" width="13" height="13"></rect>
+            <polygon id="path-1" fill="#000000" points="2 2 11 2 11 11 5 11 5 8 8 8 8 5 5 5 5 8 2 8"></polygon>
+        </g>
+        <g id="zook" transform="translate(31, 15)">
+            <rect id="rectangle-3" fill="#00AF4D" x="0" y="0" width="13" height="13"></rect>
+            <rect id="rectangle-2" fill="#000000" x="2" y="8" width="3" height="3"></rect>
+            <rect id="rectangle-1" fill="#000000" x="8" y="8" width="3" height="3"></rect>
+            <polygon id="path-1" fill="#000000" points="2 2 11 2 11 5 8 5 8 8 5 8 5 5 2 5"></polygon>
+        </g>
+        <g id="mecha" transform="translate(45, 1)">
+            <rect id="rectangle-2" fill="#F83737" x="0" y="0" width="13" height="13"></rect>
+            <rect id="rectangle-1" fill="#000000" x="2" y="8" width="3" height="3"></rect>
+            <polygon id="path-1" fill="#000000" points="2 2 8 2 8 5 11 5 11 8 5 8 5 5 2 5"></polygon>
+        </g>
+        <g id="prima" transform="translate(31, 1)">
+            <rect id="rectangle-3" fill="#418AF1" x="0" y="0" width="13" height="13"></rect>
+            <rect id="rectangle-2" fill="#000000" x="2" y="8" width="3" height="3"></rect>
+            <rect id="rectangle-1" fill="#000000" x="5" y="2" width="6" height="6"></rect>
+        </g>
+        <path d="M28,45 L28,58 L15,58 L15,45 L28,45 Z M27,46 L16,46 L16,57 L27,57 L27,46 Z M26,47 L26,56 L20,56 L20,53 L17,53 L17,47 L26,47 Z M23,50 L20,50 L20,53 L23,53 L23,50 Z" id="flavo" fill="#FFCD03"></path>
+        <path d="M14,45 L14,58 L1,58 L1,45 L14,45 Z M13,46 L2,46 L2,57 L13,57 L13,46 Z M6,53 L6,56 L3,56 L3,53 L6,53 Z M12,53 L12,56 L9,56 L9,53 L12,53 Z M12,47 L12,50 L9,50 L9,53 L6,53 L6,50 L3,50 L3,47 L12,47 Z" id="zook" fill="#00AF4D"></path>
+        <path d="M28,31 L28,44 L15,44 L15,31 L28,31 Z M27,32 L16,32 L16,43 L27,43 L27,32 Z M20,39 L20,42 L17,42 L17,39 L20,39 Z M23,33 L23,36 L26,36 L26,39 L20,39 L20,36 L17,36 L17,33 L23,33 Z" id="mecha" fill="#F83737"></path>
+        <path d="M14,31 L14,44 L1,44 L1,31 L14,31 Z M13,32 L2,32 L2,43 L13,43 L13,32 Z M6,39 L6,42 L3,42 L3,39 L6,39 Z M12,33 L12,39 L6,39 L6,33 L12,33 Z" id="prima" fill="#418AF1"></path>
+        <g id="flavo" transform="translate(45, 45)">
+            <rect id="rectangle-2" fill="#000000" x="0" y="0" width="13" height="13"></rect>
+            <rect id="rectangle-1" fill="#FFCD03" x="1" y="1" width="11" height="11"></rect>
+            <polygon id="path-1" fill="#000000" points="2 2 11 2 11 11 5 11 5 8 8 8 8 5 5 5 5 8 2 8"></polygon>
+        </g>
+        <g id="zook" transform="translate(31, 45)">
+            <rect id="rectangle-4" fill="#000000" x="0" y="0" width="13" height="13"></rect>
+            <rect id="rectangle-3" fill="#00AF4D" x="1" y="1" width="11" height="11"></rect>
+            <rect id="rectangle-2" fill="#000000" x="2" y="8" width="3" height="3"></rect>
+            <rect id="rectangle-1" fill="#000000" x="8" y="8" width="3" height="3"></rect>
+            <polygon id="path-1" fill="#000000" points="2 2 11 2 11 5 8 5 8 8 5 8 5 5 2 5"></polygon>
+        </g>
+        <g id="mecha" transform="translate(45, 31)">
+            <rect id="rectangle-3" fill="#000000" x="0" y="0" width="13" height="13"></rect>
+            <rect id="rectangle-2" fill="#F83737" x="1" y="1" width="11" height="11"></rect>
+            <rect id="rectangle-1" fill="#000000" x="2" y="8" width="3" height="3"></rect>
+            <polygon id="path-1" fill="#000000" points="2 2 8 2 8 5 11 5 11 8 5 8 5 5 2 5"></polygon>
+        </g>
+        <g id="prima" transform="translate(31, 31)">
+            <rect id="rectangle-4" fill="#000000" x="0" y="0" width="13" height="13"></rect>
+            <rect id="rectangle-3" fill="#418AF1" x="1" y="1" width="11" height="11"></rect>
+            <rect id="rectangle-2" fill="#000000" x="2" y="8" width="3" height="3"></rect>
+            <rect id="rectangle-1" fill="#000000" x="5" y="2" width="6" height="6"></rect>
+        </g>
+        <g id="flavo" transform="translate(75, 45)">
+            <rect id="rectangle-2" fill="#FFCD03" x="0" y="0" width="13" height="13"></rect>
+            <rect id="rectangle-1" fill="#000000" x="1" y="1" width="11" height="11"></rect>
+            <polygon id="path-1" fill="#FFCD03" points="2 2 11 2 11 11 5 11 5 8 8 8 8 5 5 5 5 8 2 8"></polygon>
+        </g>
+        <g id="zook" transform="translate(61, 45)">
+            <rect id="rectangle-4" fill="#00AF4D" x="0" y="0" width="13" height="13"></rect>
+            <rect id="rectangle-3" fill="#000000" x="1" y="1" width="11" height="11"></rect>
+            <rect id="rectangle-2" fill="#00AF4D" x="2" y="8" width="3" height="3"></rect>
+            <rect id="rectangle-1" fill="#00AF4D" x="8" y="8" width="3" height="3"></rect>
+            <polygon id="path-1" fill="#00AF4D" points="2 2 11 2 11 5 8 5 8 8 5 8 5 5 2 5"></polygon>
+        </g>
+        <g id="mecha" transform="translate(75, 31)">
+            <rect id="rectangle-3" fill="#F83737" x="0" y="0" width="13" height="13"></rect>
+            <rect id="rectangle-2" fill="#000000" x="1" y="1" width="11" height="11"></rect>
+            <rect id="rectangle-1" fill="#F83737" x="2" y="8" width="3" height="3"></rect>
+            <polygon id="path-1" fill="#F83737" points="2 2 8 2 8 5 11 5 11 8 5 8 5 5 2 5"></polygon>
+        </g>
+        <g id="prima" transform="translate(61, 31)">
+            <rect id="rectangle-4" fill="#418AF1" x="0" y="0" width="13" height="13"></rect>
+            <rect id="rectangle-3" fill="#000000" x="1" y="1" width="11" height="11"></rect>
+            <rect id="rectangle-2" fill="#418AF1" x="2" y="8" width="3" height="3"></rect>
+            <rect id="rectangle-1" fill="#418AF1" x="5" y="2" width="6" height="6"></rect>
+        </g>
+        <path d="M28,75 L28,88 L15,88 L15,75 L28,75 Z M27,76 L16,76 L16,87 L27,87 L27,76 Z M26,77 L26,86 L20,86 L20,83 L17,83 L17,77 L26,77 Z M25,78 L18,78 L18,82 L19,82 L19,79 L24,79 L24,84 L21,84 L21,85 L25,85 L25,78 Z M23,80 L20,80 L20,83 L23,83 L23,80 Z" id="flavo" fill="#FFCD03"></path>
+        <path d="M14,75 L14,88 L1,88 L1,75 L14,75 Z M13,76 L2,76 L2,87 L13,87 L13,76 Z M6,83 L6,86 L3,86 L3,83 L6,83 Z M12,83 L12,86 L9,86 L9,83 L12,83 Z M5,84 L4,84 L4,85 L5,85 L5,84 Z M11,84 L10,84 L10,85 L11,85 L11,84 Z M12,77 L12,80 L9,80 L9,83 L6,83 L6,80 L3,80 L3,77 L12,77 Z M11,78 L4,78 L4,79 L7,79 L7,82 L8,82 L8,79 L11,79 L11,78 Z" id="zook" fill="#00AF4D"></path>
+        <path d="M28,61 L28,74 L15,74 L15,61 L28,61 Z M27,62 L16,62 L16,73 L27,73 L27,62 Z M20,69 L20,72 L17,72 L17,69 L20,69 Z M19,70 L18,70 L18,71 L19,71 L19,70 Z M23,63 L23,66 L26,66 L26,69 L20,69 L20,66 L17,66 L17,63 L23,63 Z M22,64 L18,64 L18,65 L21,65 L21,68 L25,68 L25,67 L22,67 L22,64 Z" id="mecha" fill="#F83737"></path>
+        <path d="M14,61 L14,74 L1,74 L1,61 L14,61 Z M13,62 L2,62 L2,73 L13,73 L13,62 Z M6,69 L6,72 L3,72 L3,69 L6,69 Z M5,70 L4,70 L4,71 L5,71 L5,70 Z M12,63 L12,69 L6,69 L6,63 L12,63 Z M11,64 L7,64 L7,68 L11,68 L11,64 Z" id="prima" fill="#418AF1"></path>
+        <g id="flavo" transform="translate(45, 75)">
+            <rect id="rectangle-2" fill="#000000" x="0" y="0" width="13" height="13"></rect>
+            <rect id="rectangle-1" fill="#FFCD03" x="1" y="1" width="11" height="11"></rect>
+            <polygon id="path-1" fill="#000000" points="2 2 11 2 11 11 5 11 5 8 8 8 8 5 5 5 5 8 2 8"></polygon>
+            <path d="M4,7 L4,4 L9,4 L9,9 L6,9 L6,10 C6.66666667,10 8,10 10,10 L10,3 L3,3 L3,7 L4,7 Z" id="path-1-inline" fill="#FFCD03"></path>
+        </g>
+        <g id="zook" transform="translate(31, 75)">
+            <rect id="rectangle-4" fill="#000000" x="0" y="0" width="13" height="13"></rect>
+            <rect id="rectangle-3" fill="#00AF4D" x="1" y="1" width="11" height="11"></rect>
+            <rect id="rectangle-2" fill="#000000" x="2" y="8" width="3" height="3"></rect>
+            <rect id="rectangle-2-inline" fill="#00AF4D" x="3" y="9" width="1" height="1"></rect>
+            <rect id="rectangle-1" fill="#000000" x="8" y="8" width="3" height="3"></rect>
+            <rect id="rectangle-1-inline" fill="#00AF4D" x="9" y="9" width="1" height="1"></rect>
+            <polygon id="path-1" fill="#000000" points="2 2 11 2 11 5 8 5 8 8 5 8 5 5 2 5"></polygon>
+            <polygon id="path-1-inline" fill="#00AF4D" points="3 3 10 3 10 4 7 4 7 7 6 7 6 4 3 4"></polygon>
+        </g>
+        <g id="mecha" transform="translate(45, 61)">
+            <rect id="rectangle-3" fill="#000000" x="0" y="0" width="13" height="13"></rect>
+            <rect id="rectangle-2" fill="#F83737" x="1" y="1" width="11" height="11"></rect>
+            <rect id="rectangle-1" fill="#000000" x="2" y="8" width="3" height="3"></rect>
+            <rect id="rectangle-1-inline" fill="#F83737" x="3" y="9" width="1" height="1"></rect>
+            <polygon id="path-1" fill="#000000" points="2 2 8 2 8 5 11 5 11 8 5 8 5 5 2 5"></polygon>
+            <path d="M3,3 C5.66666667,3 7,3 7,3 C7,3 7,6 7,6 C7,6 8,6 10,6 C10,6.66666667 10,7 10,7 C10,7 8.66666667,7 6,7 L6,4 L3,4 L3,3 Z" id="path-1-inline" fill="#F83737"></path>
+        </g>
+        <g id="prima" transform="translate(31, 61)">
+            <rect id="rectangle-4" fill="#000000" x="0" y="0" width="13" height="13"></rect>
+            <rect id="rectangle-3" fill="#418AF1" x="1" y="1" width="11" height="11"></rect>
+            <rect id="rectangle-2" fill="#000000" x="5" y="2" width="6" height="6"></rect>
+            <rect id="rectangle-2-inline" fill="#418AF1" x="6" y="3" width="4" height="4"></rect>
+            <rect id="rectangle-1" fill="#000000" x="2" y="8" width="3" height="3"></rect>
+            <rect id="rectangle-1-inline" fill="#418AF1" x="3" y="9" width="1" height="1"></rect>
+        </g>
+        <g id="flavo" transform="translate(75, 75)">
+            <rect id="rectangle-2" fill="#FFCD03" x="0" y="0" width="13" height="13"></rect>
+            <rect id="rectangle-1" fill="#000000" x="1" y="1" width="11" height="11"></rect>
+            <polygon id="path-1" fill="#FFCD03" points="2 2 11 2 11 11 5 11 5 8 8 8 8 5 5 5 5 8 2 8"></polygon>
+            <path d="M4,7 L4,4 L9,4 L9,9 L6,9 L6,10 C6.66666667,10 8,10 10,10 L10,3 L3,3 L3,7 L4,7 Z" id="path-1-inline" fill="#000000"></path>
+        </g>
+        <g id="zook" transform="translate(61, 75)">
+            <rect id="rectangle-4" fill="#00AF4D" x="0" y="0" width="13" height="13"></rect>
+            <rect id="rectangle-3" fill="#000000" x="1" y="1" width="11" height="11"></rect>
+            <rect id="rectangle-2" fill="#00AF4D" x="2" y="8" width="3" height="3"></rect>
+            <rect id="rectangle-2-inline" fill="#000000" x="3" y="9" width="1" height="1"></rect>
+            <rect id="rectangle-1" fill="#00AF4D" x="8" y="8" width="3" height="3"></rect>
+            <rect id="rectangle-1-inline" fill="#000000" x="9" y="9" width="1" height="1"></rect>
+            <polygon id="path-1" fill="#00AF4D" points="2 2 11 2 11 5 8 5 8 8 5 8 5 5 2 5"></polygon>
+            <polygon id="path-1-inline" fill="#000000" points="3 3 10 3 10 4 7 4 7 7 6 7 6 4 3 4"></polygon>
+        </g>
+        <g id="mecha" transform="translate(75, 61)">
+            <rect id="rectangle-3" fill="#F83737" x="0" y="0" width="13" height="13"></rect>
+            <rect id="rectangle-2" fill="#000000" x="1" y="1" width="11" height="11"></rect>
+            <rect id="rectangle-1" fill="#F83737" x="2" y="8" width="3" height="3"></rect>
+            <rect id="rectangle-1-inline" fill="#000000" x="3" y="9" width="1" height="1"></rect>
+            <polygon id="path-1" fill="#F83737" points="2 2 8 2 8 5 11 5 11 8 5 8 5 5 2 5"></polygon>
+            <path d="M3,3 C5.66666667,3 7,3 7,3 C7,3 7,6 7,6 C7,6 8,6 10,6 C10,6.66666667 10,7 10,7 C10,7 8.66666667,7 6,7 L6,4 L3,4 L3,3 Z" id="path-1-inline" fill="#000000"></path>
+        </g>
+        <g id="prima" transform="translate(61, 61)">
+            <rect id="rectangle-4" fill="#418AF1" x="0" y="0" width="13" height="13"></rect>
+            <rect id="rectangle-3" fill="#000000" x="1" y="1" width="11" height="11"></rect>
+            <rect id="rectangle-2" fill="#418AF1" x="5" y="2" width="6" height="6"></rect>
+            <rect id="rectangle-2-inline" fill="#000000" x="6" y="3" width="4" height="4"></rect>
+            <rect id="rectangle-1" fill="#418AF1" x="2" y="8" width="3" height="3"></rect>
+            <rect id="rectangle-1-inline" fill="#000000" x="3" y="9" width="1" height="1"></rect>
+        </g>
+    </g>
+</svg>

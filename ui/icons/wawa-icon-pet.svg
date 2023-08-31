@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>wawa wallet pet</title>
+    <g id="wawa-wallet-pet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M2,1 V13 H5 V14 H7 V13 H8 V14 H10 V13 H13 V1 H2 Z" id="path-1" fill="#000000"></path>
+        <g id="group-1" transform="translate(3, 6)">
+            <rect x="0" y="0" width="9" height="6" id="rectangle-1" fill="#C1C1FF"></rect>
+            <rect x="1" y="4" width="7" height="1" id="rectangle-2" fill="#000000"></rect>
+            <rect x="1" y="1" width="2" height="2" id="rectangle-3" fill="#000000"></rect>
+            <rect x="6" y="1" width="2" height="2" id="rectangle-4" fill="#000000"></rect>
+        </g>
+        <rect id="rectangle-5" fill="#E5E5FF" x="3" y="2" width="9" height="3"></rect>
+    </g>
+</svg>

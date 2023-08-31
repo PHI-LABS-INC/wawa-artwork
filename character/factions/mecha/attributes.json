@@ -1,0 +1,64 @@
+{ 
+    "name": "mecha",
+    "spriteSheetFile": "spritesheet.png",
+    "coordinates": {
+        "x": 0,
+        "y": 0
+    },
+    "grid": {
+        "rows": 6,
+        "columns": 8,
+        "cellWidth": 69,
+        "cellHeight": 89,
+        "cellPadding": 1
+    },
+    "swatches": {
+        "shadow": "#000000",
+        "legs": [
+            ["#f9665e", "#f83737"],
+            ["#afc5d1", "#21b4ff"],
+            ["#939da0", "#656d6f"],
+            ["#c7c7c7", "#939da0"],
+            ["#e5e5e5", "#c7c7c7"],
+            ["#f2f0ed", "#e5e5e5"],
+            ["#ffca92", "#fff116"],
+            ["#fff116", "#ffc20e"]
+        ],
+        "body": [
+            ["#f9665e", "#f83737"],
+            ["#afc5d1", "#21b4ff"],
+            ["#939da0", "#656d6f"],
+            ["#c7c7c7", "#939da0"],
+            ["#e5e5e5", "#c7c7c7"],
+            ["#f2f0ed", "#e5e5e5"],
+            ["#ffca92", "#fff116"],
+            ["#fff116", "#ffc20e"]
+        ],
+        "chest": [
+            ["#21b4ff", "#afc5d1"],
+            ["#6cffe1", "#fff116"],
+            ["#fff116", "#5eff60"],
+            ["#7777ff", "#6cffe1"],
+            ["#5eff60", "#7777ff"],
+            ["#f83737", "#939da0"]
+        ],
+        "headwear": [
+            ["#f9665e", "#f83737"],
+            ["#afc5d1", "#21b4ff"],
+            ["#939da0", "#656d6f"],
+            ["#c7c7c7", "#939da0"],
+            ["#e5e5e5", "#c7c7c7"],
+            ["#f2f0ed", "#e5e5e5"],
+            ["#ffca92", "#fff116"],
+            ["#fff116", "#ffc20e"]
+        ],
+        "eyes": [
+            ["#21b4ff", "#afc5d1"],
+            ["#6cffe1", "#fff116"],
+            ["#fff116", "#5eff60"],
+            ["#7777ff", "#6cffe1"],
+            ["#5eff60", "#7777ff"],
+            ["#f83737", "#939da0"]
+        ]
+    }
+}

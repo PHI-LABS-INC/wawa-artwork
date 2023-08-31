@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1300px" height="1300px" viewBox="0 0 1300 1300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>wawa logo block rainbow@1x</title>
+    <g id="wawa-logo-block-rainbow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M1200,700 L1200,1200 L900,1200 L900,1100 L800,1100 L800,1200 L500,1200 L500,1100 L600,1100 L600,1000 L700,1000 L700,900 L800,900 L800,800 L900,800 L900,700 L1200,700 Z M1100,1000 L1000,1000 L1000,1100 L1100,1100 L1100,1000 Z" id="a" fill="#00AF4D"></path>
+        <polygon id="w" fill="#418AF1" points="100 700 200 700 200 800 300 800 300 700 400 700 400 800 500 800 500 700 800 700 800 800 700 800 700 900 600 900 600 1000 500 1000 500 1100 400 1100 400 1200 100 1200"></polygon>
+        <path d="M1200,100 L1200,600 L900,600 L900,500 L800,500 L800,600 L500,600 L500,500 L600,500 L600,400 L700,400 L700,300 L800,300 L800,200 L900,200 L900,100 L1200,100 Z M1100,400 L1000,400 L1000,500 L1100,500 L1100,400 Z" id="a" fill="#F83737"></path>
+        <polygon id="w" fill="#FFCD03" points="100 100 200 100 200 200 300 200 300 100 400 100 400 200 500 200 500 100 800 100 800 200 700 200 700 300 600 300 600 400 500 400 500 500 400 500 400 600 100 600"></polygon>
+    </g>
+</svg>

@@ -1,0 +1,238 @@
+{
+    "name": "pets_1",
+    "spriteSheetFile": "spritesheet.png",
+    "coordinates": {
+        "x": 38,
+        "y": 60
+    },
+    "grid": {
+        "rows": 2,
+        "columns": 23,
+        "cellWidth": 29,
+        "cellHeight": 29,
+        "cellPadding": 1
+    },
+    "pets": [
+        {
+            "name": "Dotty",
+            "colorShadow": "#000000",
+            "swatches": [
+                ["#f2f0ed", "#8080ff"],
+                ["#f2f0ed", "#ff8080"],
+                ["#f2f0ed", "#80ff80"]
+            ]
+        },
+        {
+            "name": "Lens",
+            "colorShadow": "#000000",
+            "swatches": [
+                ["#A2FE26", "#076127"],
+                ["#A2FE26", "#A2FE26"],
+                ["#076127", "#A2FE26"],
+                ["#e5ffbe", "#A2FE26"]
+            ]
+        },
+        {
+            "name": "Uniswap",
+            "colorShadow": "#000000",
+            "swatches": [
+                ["#E80367", "#FFD3E7"],
+                ["#E15BE3", "#FFD3E7"],
+                ["#fff450", "#E15BE3"]
+            ]
+        },
+        {
+            "name": "Tiny Dinos",
+            "colorShadow": "#000000",
+            "swatches": [
+                ["#fcbc76", "#e49539"],
+                ["#69ff4b", "#32cb33"],
+                ["#ff7389", "#f83737"],
+                ["#f68dff", "#f148ff"],
+                ["#4bffe6", "#32c4cb"]
+            ]
+        },
+        {
+            "name": "Sudoswap",
+            "colorShadow": "#000000",
+            "swatches": [
+                ["#B0B0FF", "#b9b9ff"],
+                ["#ff9bff", "#ffbef8"]
+            ]
+        },
+        {
+            "name": "AAVE",
+            "colorShadow": "#000000",
+            "swatches": [
+                ["#30ADBD", "#f2f0ed"],
+                ["#b73ba4", "#f2f0ed"],
+                ["#f2f0ed", "#30ADBD"],
+                ["#f2f0ed", "#b73ba4"]
+            ]
+        },
+        {
+            "name": "Degenscore",
+            "colorShadow": "#000000",
+            "swatches": [
+                ["#872EE7", "#c8c8ff"]
+            ]
+        },
+        {
+            "name": "ENS",
+            "colorShadow": "#000000",
+            "swatches": [
+                ["#93aaff", "#2577f4"],
+                ["#2ecbd1", "#2081cb"]
+            ]
+        },
+        {
+            "name": "PoolTogether",
+            "colorShadow": "#000000",
+            "swatches": [
+                ["#a472f7", "#7953d7"],
+                ["#6FFFDD", "#55bdf3"],
+                ["#909090", "#a0a0a0"],
+                ["#FFAD2F", "#ffed23"]
+            ]
+        },
+        {
+            "name": "Wassie",
+            "colorShadow": "#000000",
+            "swatches": [
+                ["#9CC1FE", "#f2f0ed"],
+                ["#FDE2A7", "#FE9E49"],
+                ["#D8F2A4", "#F6A8B3"],
+                ["#319392", "#FE9E49"],
+                ["#F6F6FE", "#36A966"],
+                ["#FEEF5C", "#36A966"],
+                ["#C5B0E0", "#FEEF5C"]
+            ]
+        },
+        {
+            "name": "Blitmap",
+            "colorShadow": "#000000",
+            "swatches": [
+                ["#4d4fff", "#69ff4b"],
+                ["#4d4fff", "#f83737"],
+                ["#69ff4b", "#f83737"],
+                ["#4CFFFF", "#f2f0ed"],
+                ["#FE4BFF", "#f2f0ed"]
+            ]
+        },
+        {
+            "name": "Loot",
+            "colorShadow": "#000000",
+            "swatches": [
+                ["#f2f0ed", "#43F421"],
+                ["#43F421", "#f2f0ed"],
+                ["#43F421", "#A0A0A0"]
+            ]
+        },
+        {
+            "name": "HyperLoot",
+            "colorShadow": "#000000",
+            "swatches": [
+                ["#deca19", "#43F421"],
+                ["#43F421", "#f2f0ed"],
+                ["#5C95F2", "#ffed23"]
+            ]
+        },
+        {
+            "name": "Nouns",
+            "colorShadow": "#000000",
+            "swatches": [
+                ["#F96167", "#F96167"],
+                ["#ff8418", "#ff8418"],
+                ["#ffd200", "#ffd200"],
+                ["#44E75E", "#44E75E"],
+                ["#23A8F1", "#23A8F1"],
+                ["#34f5f5", "#34f5f5"],
+                ["#D3836D", "#D3836D"]
+            ]
+        },
+        {
+            "name": "Zerion",
+            "colorShadow": "#000000",
+            "swatches": [
+                ["#2461ed", "#2461ed"]
+            ]
+        },
+        {
+            "name": "Polygon",
+            "colorShadow": "#000000",
+            "swatches": [
+                ["#9867ff", "#9867ff"]
+            ]
+        },
+        {
+            "name": "Balancer",
+            "colorShadow": "#000000",
+            "swatches": [
+                ["#9867ff", "#9867ff"],
+                ["#119BE6", "#119BE6"],
+                ["#FF6C4F", "#FF6C4F"],
+                ["#0FB491", "#0FB491"], 
+                ["#FEB1EE", "#FEB1EE"],
+                ["#F7BE00", "#F7BE00"]
+            ]
+        },
+        {
+            "name": "GitCoin",
+            "colorShadow": "#000000",
+            "swatches": [
+                ["#D5D5D5", "#F9F5F0"],
+                ["#F47A57", "#F0C6BB"],
+                ["#11429c", "#CAE7FB"],
+                ["#4238eb", "#D4D1FF"],
+                ["#EFB723", "#EEDCAA"],
+                ["#23B4C7", "#C0F2F3"],
+                ["#72275C", "#FEE2F7"],
+                ["#53625c", "#E6E6E6"]
+            ]
+        },
+        {
+            "name": "Bankless",
+            "colorShadow": "#000000",
+            "swatches": [
+                ["#f83737", "#f83737"]
+            ]
+        },
+        {
+            "name": "Timeswap",
+            "colorShadow": "#000000",
+            "swatches": [
+                ["#8d81ff", "#96CCE8"],               
+                ["#96CCE8", "#235fe5"],
+                ["#8d81ff", "#235fe5"]
+            ]
+        },
+        {
+            "name": "Lido",
+            "colorShadow": "#000000",
+            "swatches": [
+                ["#00b4fa", "#00FFFF"],               
+                ["#009a93", "#00ff96"]
+            ]
+        },
+        {
+            "name": "Curve",
+            "colorShadow": "#000000",
+            "swatches": [
+                ["#f2f0ed", "#f2f0ed"]        
+            ]
+        },
+        {
+            "name": "LilNouns",
+            "colorShadow": "#000000",
+            "swatches": [
+                ["#F96167", "#F96167"],
+                ["#ff8418", "#ff8418"],
+                ["#ffd200", "#ffd200"],
+                ["#44E75E", "#44E75E"],
+                ["#23A8F1", "#23A8F1"],
+                ["#34f5f5", "#34f5f5"],
+                ["#D3836D", "#D3836D"]
+            ]
+        }
+    ]
+}

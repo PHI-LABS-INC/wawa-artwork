@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="14px" viewBox="0 0 50 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>wawa-flavo-logotype-yellow</title>
+    <g id="wawa-flavo-logotype-yellow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="o" transform="translate(37, 3)" fill="#FFCD03">
+            <rect id="rectangle-4" x="8" y="2" width="2" height="4"></rect>
+            <rect id="rectangle-3" x="2" y="0" width="6" height="2"></rect>
+            <rect id="rectangle-2" x="2" y="6" width="6" height="2"></rect>
+            <rect id="rectangle-1" x="0" y="2" width="2" height="4"></rect>
+        </g>
+        <g id="v" transform="translate(29, 3)" fill="#FFCD03">
+            <rect id="rectangle-2" x="6" y="0" width="2" height="2"></rect>
+            <rect id="rectangle-1" x="4" y="2" width="2" height="2"></rect>
+            <path d="M0,0 L2,0 C2,2 2,4 2,4 C2,4 2,4 4,4 L4,6 L2,6 C2,8 2,8 2,8 C2,8 2,8 0,8 L0,0 Z" id="path-1"></path>
+        </g>
+        <g id="a" transform="translate(19, 3)" fill="#FFCD03">
+            <rect id="rectangle-1" x="2" y="0" width="4" height="2"></rect>
+            <path d="M0,2 L2,2 L2,4 L6,4 L6,2 L8,2 C8,6 8,8 8,8 C8,8 8,8 6,8 L6,6 L2,6 L2,8 L0,8 L0,2 Z" id="path-1"></path>
+        </g>
+        <g id="l" transform="translate(11, 3)" fill="#FFCD03">
+            <rect id="rectangle-2" x="2" y="6" width="4" height="2"></rect>
+            <rect id="rectangle-1" x="0" y="0" width="2" height="6"></rect>
+        </g>
+        <g id="f" transform="translate(3, 3)" fill="#FFCD03">
+            <rect id="rectangle-1" x="2" y="0" width="4" height="2"></rect>
+            <path d="M0,2 L2,2 C2,4 2,4 2,4 C2,4 4,4 6,4 L6,6 L2,6 C2,8 2,8 2,8 C2,8 2,8 0,8 L0,2 Z" id="path-1"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="15px" viewBox="0 0 57 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>wawa-faction-logos-row-00-colors</title>
+    <g id="wawa-faction-logos-row-00-colors" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M56,1 L56,14 L43,14 L43,1 L56,1 Z M54,3 L45,3 L45,9 L48,9 L48,12 L54,12 L54,3 Z M51,6 L51,9 L48,9 L48,6 L51,6 Z" id="flavo" fill="#FFCD03"></path>
+        <path d="M42,1 L42,14 L29,14 L29,1 L42,1 Z M34,9 L31,9 L31,12 L34,12 L34,9 Z M40,9 L37,9 L37,12 L40,12 L40,9 Z M40,3 L31,3 L31,6 L34,6 L34,9 L37,9 L37,6 L40,6 L40,3 Z" id="zook" fill="#00AF4D"></path>
+        <path d="M28,1 L28,14 L15,14 L15,1 L28,1 Z M20,9 L17,9 L17,12 L20,12 L20,9 Z M23,3 L17,3 L17,6 L20,6 L20,9 L26,9 L26,6 L23,6 L23,3 Z" id="mecha" fill="#F83737"></path>
+        <path d="M14,1 L14,14 L1,14 L1,1 L14,1 Z M6,9 L3,9 L3,12 L6,12 L6,9 Z M12,3 L6,3 L6,9 L12,9 L12,3 Z" id="prima" fill="#418AF1"></path>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>wawa icon wallet</title>
+    <g id="wawa-icon-wallet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M1,3 V12 H2 V13 H12 V12 H13 V9 H14 V6 H13 V3 H12 V2 H2 V3 Z" id="path-1" fill="#000000"></path>
+        <g id="group-2" transform="translate(2, 3)">
+            <path d="M10,2 H6 V3 H5 V6 H6 V7 H10 V9 H0 V0 H10 Z" id="path-2" fill="#D27101"></path>
+            <rect x="0" y="0" width="1" height="1" id="rectangle-1" fill="#FFFFFF"></rect>
+            <rect x="0" y="0" width="1" height="9" id="rectangle-2" fill="#FA951E"></rect>
+            <rect x="0" y="0" width="10" height="1" id="rectangle-3" fill="#FA951E"></rect>
+        </g>
+        <g id="group-1" transform="translate(8, 6)">
+            <path d="M0,0 V3 H5 V0 H2 V2 H1 V0 Z" id="path-3" fill="#D27101"></path>
+            <rect x="0" y="0" width="5" height="1" id="rectangle-4" fill="#FA951E"></rect>
+        </g>
+    </g>
+</svg>
